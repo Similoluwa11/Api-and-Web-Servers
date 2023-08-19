@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:dev": "nodemon node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Similoluwa11/Api-and-Web-Servers.git"
+  },
+  "author": "Similoluwa Akhigbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Similoluwa11/Api-and-Web-Servers/issues"
+  },
+  "homepage": "https://github.com/Similoluwa11/Api-and-Web-Servers#readme"
+}
